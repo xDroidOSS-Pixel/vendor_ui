@@ -58,6 +58,9 @@
         <!-- Enable use of coarse/fine location -->
         <item>privacy/location_accuracy_enabled=true</item>
 
+        <!-- Enable safety center -->
+        <item>privacy/safety_center_is_enabled=true</item>
+
         <!-- Keep up to 7 days of permission usage history -->
         <item>privacy/discrete_history_cutoff_millis=604800000</item>
 
